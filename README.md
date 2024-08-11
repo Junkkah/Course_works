@@ -7,10 +7,10 @@ These projects demonstrate my skills in data analysis, visualization, and proble
 ## Projects Included
 
 - **Auto GIS**: Geographic data analysis projects that include data analysis, visualization and other related tasks.
-  - [Explore Automating GIS](auto_gis/README.md)
+  - [Explore Automating GIS](auto_gis/)
 
 - **Fossil Analysis**: Data analysis projects related to fossil remains, showcasing techniques in statistical analysis and data visualization.
-  - [Explore Fossil Analysis](fossil_analysis/README.md)
+  - [Explore Fossil Analysis](fossil_analysis/)
 
 ## How to Use
 
